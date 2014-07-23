@@ -1,0 +1,31 @@
+/**
+ *TODO
+ *Rozbudowac poprzedni program o:
+ *-1. Zwalnianie zasobow po wypisaniu;
+ *
+ *-2. Sprawdzanie poprawnosci wejscia (w pliku wejsciowym). Np. czy jest znak
+ *   rowna sie, itp..
+ * 
+ *-3. Wypisac na standardowe wyjscie bledow (stderr) komunikaty o bledach w pliku
+ *   wejsciowym. 
+ * 
+ *-4. Napisac funkcje ktora usuwa biale znaki na poczatku i koncu danego stringa
+ * 
+ *-5. Dodac zabezpieczenie przed dlugimi stringami...
+ * 
+ *-6. Gwoli przypomnienia, w tej czesci operacje powinny juz byc wykonywane 
+ *   na stosie;
+ * 
+ *W zadaniu NALEZY wykorzystac:
+ *-1. Wszystkie rodzaje petli (/for, /while, /do while);
+ *
+ *-2. Typ wyliczeniowy;
+ *
+ *-3. Rzutowanie;
+ *
+ *4. Pozyskiwanie adresu zmiennej (operator &) oraz dereferencje wskaznika (operator *);
+ *
+ */5. Wskazniki;
+ *
+ */6. Dynamicznie alokowanych lancuchow znakowych;
+ */
